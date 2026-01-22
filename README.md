@@ -1,2 +1,2 @@
-# Enhanced-file-preview-in-VSCode-W-Corp-EFP-in-Vscode-NPM-
+# Enhanced-file-preview-in-VSCode-W-Corp-EFP-in-Vscode-Esbuild-NPM
 Say goodbye to frequent window switching. This extension allows you to seamlessly preview PDF documents, Office files, compressed    files and more within the VSCode editor, providing an integrated working environment for full-stack development and document handling.[告别频繁的窗口切换。此扩展让您能在VSCode编辑器内无缝预览PDF文档、Office文件、压缩包等内容，为全栈开发和文档处理提供一体化工作环境。]
